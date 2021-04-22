@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/speedrun-retimer/static/js/main.b2a0aa00.chunk.js",
+    "main.js.map": "/speedrun-retimer/static/js/main.b2a0aa00.chunk.js.map",
+    "runtime-main.js": "/speedrun-retimer/static/js/runtime-main.58e2c17a.js",
+    "runtime-main.js.map": "/speedrun-retimer/static/js/runtime-main.58e2c17a.js.map",
+    "static/js/2.0938dda7.chunk.js": "/speedrun-retimer/static/js/2.0938dda7.chunk.js",
+    "static/js/2.0938dda7.chunk.js.map": "/speedrun-retimer/static/js/2.0938dda7.chunk.js.map",
+    "index.html": "/speedrun-retimer/index.html",
+    "precache-manifest.60240a402309b862372e01ac0738eac0.js": "/speedrun-retimer/precache-manifest.60240a402309b862372e01ac0738eac0.js",
+    "service-worker.js": "/speedrun-retimer/service-worker.js",
+    "static/js/2.0938dda7.chunk.js.LICENSE.txt": "/speedrun-retimer/static/js/2.0938dda7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58e2c17a.js",
+    "static/js/2.0938dda7.chunk.js",
+    "static/js/main.b2a0aa00.chunk.js"
+  ]
+}
