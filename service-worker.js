@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/speedrun-retimer/precache-manifest.dcef1beb907719bbcc550107f6774b5f.js"
+  "/speedrun-retimer/precache-manifest.8987489c2da732c1c369628dce9c5f92.js"
 );
 
 self.addEventListener('message', (event) => {

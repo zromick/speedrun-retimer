@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/speedrun-retimer/static/js/main.533f288a.chunk.js",
-    "main.js.map": "/speedrun-retimer/static/js/main.533f288a.chunk.js.map",
+    "main.css": "/speedrun-retimer/static/css/main.0b916e28.chunk.css",
+    "main.js": "/speedrun-retimer/static/js/main.0b8d5012.chunk.js",
+    "main.js.map": "/speedrun-retimer/static/js/main.0b8d5012.chunk.js.map",
     "runtime-main.js": "/speedrun-retimer/static/js/runtime-main.58e2c17a.js",
     "runtime-main.js.map": "/speedrun-retimer/static/js/runtime-main.58e2c17a.js.map",
-    "static/js/2.544b454a.chunk.js": "/speedrun-retimer/static/js/2.544b454a.chunk.js",
-    "static/js/2.544b454a.chunk.js.map": "/speedrun-retimer/static/js/2.544b454a.chunk.js.map",
+    "static/js/2.23b323d1.chunk.js": "/speedrun-retimer/static/js/2.23b323d1.chunk.js",
+    "static/js/2.23b323d1.chunk.js.map": "/speedrun-retimer/static/js/2.23b323d1.chunk.js.map",
     "index.html": "/speedrun-retimer/index.html",
-    "precache-manifest.dcef1beb907719bbcc550107f6774b5f.js": "/speedrun-retimer/precache-manifest.dcef1beb907719bbcc550107f6774b5f.js",
+    "precache-manifest.8987489c2da732c1c369628dce9c5f92.js": "/speedrun-retimer/precache-manifest.8987489c2da732c1c369628dce9c5f92.js",
     "service-worker.js": "/speedrun-retimer/service-worker.js",
-    "static/js/2.544b454a.chunk.js.LICENSE.txt": "/speedrun-retimer/static/js/2.544b454a.chunk.js.LICENSE.txt"
+    "static/css/main.0b916e28.chunk.css.map": "/speedrun-retimer/static/css/main.0b916e28.chunk.css.map",
+    "static/js/2.23b323d1.chunk.js.LICENSE.txt": "/speedrun-retimer/static/js/2.23b323d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.58e2c17a.js",
-    "static/js/2.544b454a.chunk.js",
-    "static/js/main.533f288a.chunk.js"
+    "static/js/2.23b323d1.chunk.js",
+    "static/css/main.0b916e28.chunk.css",
+    "static/js/main.0b8d5012.chunk.js"
   ]
 }

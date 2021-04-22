@@ -1,0 +1,1 @@
+{"version":3,"sources":["styling.module.scss"],"names":[],"mappings":"AAAA,4BACE,WAAY,CACb,8BAGC,WAAY,CACZ,UAAW","file":"main.0b916e28.chunk.css","sourcesContent":[".basicMargin {\r\n  margin: 10px;\r\n}\r\n\r\n.videoURLWidth {\r\n  margin: 10px;\r\n  width: 70vw;\r\n}"]}
